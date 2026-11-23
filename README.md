@@ -1,6 +1,8 @@
 ### Hi, I'm Samar 👋
 
-Curious by nature and analytical by training, I love turning complex data into clear, human-centered solutions. As a **Business Analytics & Information Technology student**, I'm especially drawn to the intersection of **data, EdTech, and community**—using creative problem-solving and clean engineering to build tools and spaces that empower people.
+I like digging into messy data and building tech that actually makes sense to the people using it. As a **Business Analytics & Information Technology** student, I spend most of my time at the crossroads of **data, EdTech, and community**—figuring out how smart systems and good storytelling can help people learn, connect, and make better decisions.
+
+Whether I'm designing a database, wiring up an API, or building a dashboard, I care just as much about the *why* behind a project as the code running it.
 
 Multilingual, globally minded, and always learning, I bring adaptable, collaborative energy to every project I build.
 
